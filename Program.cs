@@ -11,6 +11,7 @@ namespace test_2019VisualStudio_CSharpGitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello!");
+            Console.WriteLine("masodik");
             Console.ReadKey();
         }
     }
